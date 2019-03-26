@@ -1,4 +1,4 @@
-# ** Friend Finder Application**
+# Friend Finder Application
 A friend finder application using Javascript, Express and Node.
 
 
@@ -15,4 +15,4 @@ A friend finder application using Javascript, Express and Node.
     * User must complete all survey fields
     * Upon completion of survey, user will be matches with the ideal friend from the API
 
-[a link](https://polar-lowlands-53113.herokuapp.com/)
+## Link to deployed app: [https://polar-lowlands-53113.herokuapp.com/](https://polar-lowlands-53113.herokuapp.com/)
